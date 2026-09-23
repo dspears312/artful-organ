@@ -7,14 +7,15 @@
 https://github.com/user-attachments/assets/f9e38610-aaf4-4b95-8d1c-e8f7f04b7d77
 
 <!-- hero: the demonstration clip goes on the next line, as a github.com/user-attachments URL -->
-**[Watch the demonstration](https://bonninr.github.io/masterpiece/#hear)** — thirty-three works on nine organs, recorded from the application's own output · [programme and credits](ATTRIBUTION.md#music)
+**[Watch the demonstration](https://bonninr.github.io/masterpiece/#hear)** — thirty-three works on nine organs, recorded from the application's own output · [programme and credits](ATTRIBUTION.md#music)  
+**[Watch "New tested instruments"](https://bonninr.github.io/masterpiece/#hear-2)** — thirty works on fifteen organs, filmed from the running console · [programme and credits](https://bonninr.github.io/masterpiece/attribution-2.html)
 
-[![Windows](https://img.shields.io/badge/Download-Windows%20installer-0078D6?logo=windows&logoColor=white)](https://github.com/bonninr/masterpiece/releases/download/v0.5.3/masterpiece-0.5.3-windows-setup.exe)
-[![macOS Apple silicon](https://img.shields.io/badge/Download-macOS%20Apple%20silicon-000000?logo=apple&logoColor=white)](https://github.com/bonninr/masterpiece/releases/download/v0.5.3/masterpiece-0.5.3-macos-arm64.zip)
-[![macOS Intel](https://img.shields.io/badge/Download-macOS%20Intel-000000?logo=apple&logoColor=white)](https://github.com/bonninr/masterpiece/releases/download/v0.5.3/masterpiece-0.5.3-macos-x86_64.zip)
-[![Debian and Ubuntu](https://img.shields.io/badge/Download-Debian%20%2F%20Ubuntu%20.deb-A81D33?logo=debian&logoColor=white)](https://github.com/bonninr/masterpiece/releases/download/v0.5.3/masterpiece-0.5.3-linux-amd64.deb)
-[![Raspberry Pi 64-bit](https://img.shields.io/badge/Download-Raspberry%20Pi%2064--bit%20.deb-A22846?logo=raspberrypi&logoColor=white)](https://github.com/bonninr/masterpiece/releases/download/v0.5.3/masterpiece-0.5.3-linux-arm64.deb)
-[![Raspberry Pi 32-bit](https://img.shields.io/badge/Download-Raspberry%20Pi%2032--bit%20.deb-A22846?logo=raspberrypi&logoColor=white)](https://github.com/bonninr/masterpiece/releases/download/v0.5.3/masterpiece-0.5.3-linux-armhf.deb)
+[![Windows](https://img.shields.io/badge/Download-Windows%20installer-0078D6?logo=windows&logoColor=white)](https://github.com/bonninr/masterpiece/releases/download/v0.5.4/masterpiece-0.5.4-windows-setup.exe)
+[![macOS Apple silicon](https://img.shields.io/badge/Download-macOS%20Apple%20silicon-000000?logo=apple&logoColor=white)](https://github.com/bonninr/masterpiece/releases/download/v0.5.4/masterpiece-0.5.4-macos-arm64.zip)
+[![macOS Intel](https://img.shields.io/badge/Download-macOS%20Intel-000000?logo=apple&logoColor=white)](https://github.com/bonninr/masterpiece/releases/download/v0.5.4/masterpiece-0.5.4-macos-x86_64.zip)
+[![Debian and Ubuntu](https://img.shields.io/badge/Download-Debian%20%2F%20Ubuntu%20.deb-A81D33?logo=debian&logoColor=white)](https://github.com/bonninr/masterpiece/releases/download/v0.5.4/masterpiece-0.5.4-linux-amd64.deb)
+[![Raspberry Pi 64-bit](https://img.shields.io/badge/Download-Raspberry%20Pi%2064--bit%20.deb-A22846?logo=raspberrypi&logoColor=white)](https://github.com/bonninr/masterpiece/releases/download/v0.5.4/masterpiece-0.5.4-linux-arm64.deb)
+[![Raspberry Pi 32-bit](https://img.shields.io/badge/Download-Raspberry%20Pi%2032--bit%20.deb-A22846?logo=raspberrypi&logoColor=white)](https://github.com/bonninr/masterpiece/releases/download/v0.5.4/masterpiece-0.5.4-linux-armhf.deb)
 
 Portable archives for every platform, and the plugins on their own, are on the
 [releases page](https://github.com/bonninr/masterpiece/releases/latest).
@@ -102,12 +103,34 @@ The same program, reading different libraries.
 | **Nancy** — four manuals; the keys are part of the photograph, and the drawstops are colour-coded by division | **Lemmer** — a Flentrop under the saints, with the recording perspective on the case |
 | ![Nancy](screenshots/Nancy.jpg) | ![Lemmer](screenshots/Lemmer.jpg) |
 | 65 stops, four manuals · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/nancy/) | Flentrop, 1977–78 · 9 registers · [sample set by Augustine's Virtual Organs](https://hauptwerk-augustine.info/Lemmer.php) |
+| **Giubiasco** | **Alessandria** — pipes reached through pallet switches |
+| ![Giubiasco](screenshots/Giubiasco.jpg) | ![Alessandria](screenshots/Alessandria.jpg) |
+| complete set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/giubiasco/) | demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/alessandria/) |
+| **Pinerolo** | **Ermelo** |
+| ![Pinerolo](screenshots/Pinerolo.jpg) | ![Ermelo](screenshots/Ermelo.jpg) |
+| demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/pinerolo/) | demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/ermelo/) |
+| **Święta Lipka** — pipes reached through pallet switches | **Nitra** |
+| ![Święta Lipka](screenshots/SwietaLipka.jpg) | ![Nitra](screenshots/Nitra.jpg) |
+| demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/swieta-lipka/) | demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/nitra/) |
+| **Erfurt-Büßleben** | **Erfurt, Predigerkirche** — pipes reached through pallet switches |
+| ![Erfurt-Büßleben](screenshots/ErfurtBussleben.jpg) | ![Erfurt, Predigerkirche](screenshots/ErfurtPredigerkirche.jpg) |
+| demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/erfurt-bussleben/) | demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/erfurt-predigerkirche/) |
+| **Obervellach** | **Düren** |
+| ![Obervellach](screenshots/Obervellach.jpg) | ![Düren](screenshots/Duren.jpg) |
+| demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/obervellach/) | demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/duren/) |
+| **Chorzów, St Hedwig of Silesia** | **Goch** |
+| ![Chorzów, St Hedwig of Silesia](screenshots/Chorzow.jpg) | ![Goch](screenshots/Goch.jpg) |
+| demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/chorzow-sw-jadwiga-slaska/) | demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/goch/) |
+| **Oloron-Sainte-Marie** | **Bégard** |
+| ![Oloron-Sainte-Marie](screenshots/OloronSainteMarie.jpg) | ![Bégard](screenshots/Begard.jpg) |
+| demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/oloron-sainte-marie/) | demonstration set · [sample set by Piotr Grabowski](https://piotrgrabowski.pl/begard/) |
 
 Each organ above is a freely published sample library, separate from this
-repository. Nine of the ten are produced by [Piotr
-Grabowski](https://piotrgrabowski.pl/); the tenth by [Augustine's Virtual
-Organs](https://hauptwerk-augustine.info/). Full credits:
-[ATTRIBUTION.md](ATTRIBUTION.md).
+repository. Twenty-three of the twenty-four are produced by [Piotr
+Grabowski](https://piotrgrabowski.pl/); the other by [Augustine's Virtual
+Organs](https://hauptwerk-augustine.info/). Most of the newer ones are his
+demonstration sets, which include only some of each organ's stops. Full
+credits: [ATTRIBUTION.md](ATTRIBUTION.md).
 
 Sets that ship several console sizes offer them all; the chooser only appears
 when there is a choice to make. Drawn keys and drawstops are clickable, and a
@@ -261,18 +284,18 @@ tag `v0.4.2` and the release workflow builds and publishes everything.
 
 ## Installing
 
-**Windows.** Run `masterpiece-0.5.3-windows-setup.exe`. It installs
+**Windows.** Run `masterpiece-0.5.4-windows-setup.exe`. It installs
 Masterpiece with a Start menu entry, and removes it again from
-*Settings → Apps*. The portable `masterpiece-0.5.3-windows.zip` needs no
+*Settings → Apps*. The portable `masterpiece-0.5.4-windows.zip` needs no
 installation and carries the VST3 plugin.
 
 **Debian, Ubuntu, Raspberry Pi OS.** Install the package with `apt`, which
 fetches anything it needs:
 
 ```
-sudo apt install ./masterpiece-0.5.3-linux-amd64.deb     # PC
-sudo apt install ./masterpiece-0.5.3-linux-arm64.deb     # Raspberry Pi OS, 64-bit
-sudo apt install ./masterpiece-0.5.3-linux-armhf.deb     # Raspberry Pi OS, 32-bit
+sudo apt install ./masterpiece-0.5.4-linux-amd64.deb     # PC
+sudo apt install ./masterpiece-0.5.4-linux-arm64.deb     # Raspberry Pi OS, 64-bit
+sudo apt install ./masterpiece-0.5.4-linux-armhf.deb     # Raspberry Pi OS, 32-bit
 ```
 
 Masterpiece then appears in the applications menu and runs as `masterpiece`.
